@@ -10,7 +10,7 @@ from core.whois import runner
 
 
 def get_args():
-    p = argparse.ArgumentParser(description="Amass Subdomain Collecter and Scope Resolver")
+    p = argparse.ArgumentParser(description="Passive Hosting Provider Scanner (OSINT)")
     p.add_argument('-d','--domain',type=str,help="Domain. I.E. example.com")
     p.add_argument('-df','--domainFile', type=str, help="File Containing List of Domains")
 

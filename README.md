@@ -23,7 +23,7 @@ $ python3 InfraHunter.py --help
 
 usage: InfraHunter.py [-h] [-d DOMAIN] [-df DOMAINFILE]
 
-Amass Subdomain Collecter and Scope Resolver
+Passive Hosting Provider Scanner (OSINT)
 
 options:
   -h, --help                               show this help message and exit
